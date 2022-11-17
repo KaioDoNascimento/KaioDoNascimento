@@ -1,4 +1,4 @@
-### Hi 👋
+<h1 align="center">Hi 👋, my name is Kaio Alexandre do Nascimento </h1>
 
 - 🔭 I’m currently studying on Unicarioca
 - 🌱 I’m currently learning HTML, CSS, Javascript and Node.JS
